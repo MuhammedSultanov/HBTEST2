@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #ff9800;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+header .login a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+header .login a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+main h1 {
+    margin-bottom: 20px;
+}
+
+.filter {
+    margin-bottom: 20px;
+}
+
+.filter label {
+    margin-right: 10px;
+}
+
+.places {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.place-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    margin: 10px;
+}
+
+.place-card h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.place-card p {
+    margin: 5px 0;
+}
+
+.place-card button {
+    background-color: #ff9800;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.place-card button:hover {
+    background-color: #e68900;
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Eiffel Tower",
+        "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France.",
+        "location": "Paris, France",
+        "country": "France"
+    },
+    {
+        "name": "Statue of Liberty",
+        "description": "A colossal neoclassical sculpture on Liberty Island in New York Harbor, New York, USA.",
+        "location": "New York, USA",
+        "country": "USA"
+    },
+    {
+        "name": "Great Wall of China",
+        "description": "A series of fortifications made of various materials to protect and consolidate territories.",
+        "location": "China",
+        "country": "China"
+    },
+    {
+        "name": "Machu Picchu",
+        "description": "An Incan citadel set high in the Andes Mountains in Peru.",
+        "location": "Peru",
+        "country": "Peru"
+    },
+    {
+        "name": "Sydney Opera House",
+        "description": "A multi-venue performing arts centre in Sydney, Australia.",
+        "location": "Sydney, Australia",
+        "country": "Australia"
+    },
+    {
+        "name": "Taj Mahal",
+        "description": "An Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra.",
+        "location": "Agra, India",
+        "country": "India"
+    },
+    {
+        "name": "Colosseum",
+        "description": "An ancient amphitheatre located in the centre of Rome, Italy.",
+        "location": "Rome, Italy",
+        "country": "Italy"
+    }
+]
